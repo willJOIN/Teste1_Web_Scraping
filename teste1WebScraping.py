@@ -1,5 +1,5 @@
-import requests
 from bs4 import BeautifulSoup
+import requests
 
 # URL do site requisitado
 url = "https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss"
